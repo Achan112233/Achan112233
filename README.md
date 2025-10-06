@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Anthony Chan
+# 👋 Hi, I'm Anthony
 
-💻 **Computer Science Student @ University of Maryland**  
+💻 **Software Engineer & Computer Science Student @ University of Maryland**  
 🌎 **Geospatial Research Intern** | **Software Engineer Intern @ Forterra**  
-⚙️ Passionate about systems, robotics, and spatial computing.
+⚙️ Passionate about accessible tech, AI systems, and robotics.
 
 ---
 
 ### 🧠 About Me
-I'm an aspiring software engineer interested in **systems programming**, **geospatial analytics**, and **robotics software**.  
 I love exploring how data and automation shape the real world—from autonomous vehicles to scalable web systems.
 
 - 🛰️ Currently researching **Amazon road mapping** and **tree mortality** models  
@@ -34,17 +33,6 @@ I love exploring how data and automation shape the real world—from autonomous 
 
 ---
 
-### 📚 Experience
-- **Software Engineer Intern @ Forterra**  
-  Built a mapping GUI and CLI simulator for autonomous vehicles, automating command generation and improving real-world validation by 60%.  
-
-- **Geospatial Research Intern @ UMD CGIS**  
-  Applied ML techniques for **cloud masking and tree mortality mapping** using satellite imagery and Meta’s SAM.  
-
-- **Robotics @ Maryland – Software Engineer**  
-  Developing systems for **Qubo**, an autonomous underwater vehicle.  
-
----
 
 ### 🌱 What I’m Learning
 - Distributed Systems & Concurrency  
