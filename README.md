@@ -5,17 +5,6 @@
 ⚙️ Passionate about accessible tech, AI systems, and robotics.
 
 ---
-
-### 🧠 About Me
-I love exploring how data and automation shape the real world—from autonomous vehicles to scalable web systems.
-
-- 🛰️ Currently researching **Amazon road mapping** and **tree mortality** models  
-- 🤖 Built a **GUI and CLI simulation suite** for autonomous vehicles at Forterra  
-- 🐧 Developed a **Concurrent Linux Shell** with multithreading and process spawning  
-- 🧩 Exploring low-level optimization and concurrency in C and Python  
-
----
-
 ### 🛠️ Tech Stack
 **Languages:** Python, C++, Java, JavaScript, HTML, MIPS Assembly, OCaml  
 **Frameworks:** React, Flask, SQLAlchemy, Node.js, Docker  
@@ -28,7 +17,7 @@ I love exploring how data and automation shape the real world—from autonomous 
 | Project | Description | Tech |
 |----------|--------------|------|
 | [🔧 Concurrent Linux Shell](#) | Multithreaded C shell supporting I/O redirection and pipes | C, Unix |
-| [🧠 Task Smasher](https://github.com/Achan112233/Crud-App) | Dynamic task board with Flask + React | Python, Flask, SQLAlchemy, React |
+| [🧠 TaskFlow](https://github.com/Achan112233/Crud-App) | Dynamic task board with Flask + React | Python, Flask, SQLAlchemy, React |
 | [🗺️ Mapping GUI (Forterra)](#) | Automated pickup command generation for 100+ vehicle routines | Python, Tkinter, MatPlotLib |
 
 ---
