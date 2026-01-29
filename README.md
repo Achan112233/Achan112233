@@ -2,30 +2,29 @@
 
 💻 **Software Engineer & Computer Science Student @ University of Maryland**  
 🌎 **Geospatial Research Intern** | **Software Engineer Intern @ Forterra**  
-⚙️ Passionate about accessible tech, AI systems, and robotics.
+⚙️ Passionate about scalable systems, backend engineering, and building accessible technology.
 
 ---
 ### 🛠️ Tech Stack
 **Languages:** Python, C++, Java, JavaScript, HTML, MIPS Assembly, OCaml  
 **Frameworks:** React, Flask, SQLAlchemy, Node.js, Docker  
 **Tools:** Git, CVAT, JUnit, QT, QML  
-**Concepts:** Algorithms, Backend Systems, Full-Stack Web Development, Software Engineering  
+**Concepts:** Algorithms, Distributed Systems, Backend Engineering, Full-Stack Web Development, Software Design  
 
 ---
 
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🔧 Concurrent Linux Shell](#) | Multithreaded C shell supporting I/O redirection and pipes | C, Unix |
-| [🧠 TaskFlow](https://github.com/Achan112233/Crud-App) | Dynamic task board with Flask + React | Python, Flask, SQLAlchemy, React |
-| [🗺️ Mapping GUI (Forterra)](#) | Automated pickup command generation for 100+ vehicle routines | Python, Tkinter, MatPlotLib |
+| [🔧 Concurrent Linux Shell](#) | Multithreaded C shell supporting I/O redirection, pipes, and process management | C, Unix |
+| [🧠 TaskFlow](https://github.com/Achan112233/Crud-App) | Full-stack task board with authentication, REST APIs, and persistent storage | Python, Flask, SQLAlchemy, React |
+| [🗺️ Mapping GUI (Forterra)](#) | Internal tooling to automate pickup command generation for 100+ vehicle routines | Python, Tkinter, MatPlotLib |
 
 ---
 
-
 ### 🌱 What I’m Learning
 - Distributed Systems & Concurrency  
-- Data Visualization for Environmental Modeling  
+- Backend Architecture & API Design  
 - Advanced C and Systems Programming  
 
 ---
