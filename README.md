@@ -12,24 +12,6 @@ I’m a Software Engineer and Computer Science student passionate about backend 
 👤 LinkedIn: https://linkedin.com/in/antchan12  
 
 ---
-
-## Experience
-
-### Software Developer Intern — UMD Center for Geospatial Information Science (Sept 2025 – Present)
-- Developed Python applications to process large roadmap and tree mortality datasets for early deforestation detection  
-- Improved performance and stability of internal evaluation tooling by fixing edge cases, optimizing compute-heavy steps, and standardizing outputs for dashboards and reporting  
-
-### Software Engineer Intern — Forterra (May 2025 – Aug 2025)
-- Built a C++/Qt mapping GUI that automated pickup command generation, reducing setup time by 60% and now used daily for 100+ vehicle routines  
-- Created a Tkinter + Matplotlib telemetry analysis tool to visualize 20ms cycle-level vehicle data, accelerating debugging and validation workflows  
-- Implemented search and filtering features for vehicle identification, significantly improving application usability  
-
-### Research Intern — UMD Center for Geospatial Information Science (May 2023 – Dec 2023)
-- Automated cloud mask generation for satellite imagery datasets to streamline geospatial ML data pipelines  
-- Refined segmentation outputs to reduce bias and improve downstream training quality  
-
----
-
 ## Featured Projects
 
 ### Real-time Study Room  
