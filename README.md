@@ -1,42 +1,74 @@
-# 👋 Hi, I'm Anthony
-
-💻 **Software Engineer & Computer Science Student @ University of Maryland**  
-🌎 **Geospatial Research Intern** | **Software Engineer Intern @ Forterra**  
-⚙️ Passionate about scalable systems, backend engineering, and building accessible technology.
+# Hi, I’m Anthony 👋  
+I’m a Software Engineer and Computer Science student passionate about backend systems, distributed applications, and building reliable, user-centered software.
 
 ---
-### 🛠️ Tech Stack
+
+## About Me
+💻 Software Engineer Intern & CS Student @ University of Maryland  
+🌎 Geospatial Research Intern  
+⚙️ Interested in backend engineering, systems programming, and full-stack development  
+✉️ Contact: anthonycc1122@gmail.com  
+🌐 Portfolio: https://achandev.vercel.app  
+👤 LinkedIn: https://linkedin.com/in/antchan12  
+
+---
+
+## Education
+**University of Maryland, College Park**  
+Bachelor of Science in Computer Science — Dec 2026  
+GPA: 3.5  
+
+Relevant Coursework: Advanced Data Structures & Algorithms, Computer Systems, Parallel Computing, Compiler Theory, Data Science, Game Programming
+
+---
+
+## Experience
+
+### Software Developer Intern — UMD Center for Geospatial Information Science (Sept 2025 – Present)
+- Developed Python applications to process large roadmap and tree mortality datasets for early deforestation detection  
+- Improved performance and stability of internal evaluation tooling by fixing edge cases, optimizing compute-heavy steps, and standardizing outputs for dashboards and reporting  
+
+### Software Engineer Intern — Forterra (May 2025 – Aug 2025)
+- Built a C++/Qt mapping GUI that automated pickup command generation, reducing setup time by 60% and now used daily for 100+ vehicle routines  
+- Created a Tkinter + Matplotlib telemetry analysis tool to visualize 20ms cycle-level vehicle data, accelerating debugging and validation workflows  
+- Implemented search and filtering features for vehicle identification, significantly improving application usability  
+
+### Research Intern — UMD Center for Geospatial Information Science (May 2023 – Dec 2023)
+- Automated cloud mask generation for satellite imagery datasets to streamline geospatial ML data pipelines  
+- Refined segmentation outputs to reduce bias and improve downstream training quality  
+
+---
+
+## Featured Projects
+
+### Real-time Study Room  
+Go, REST APIs, WebSockets, TypeScript  
+- Building a room-based real-time collaboration app with invite codes, live messaging, and online presence  
+- Designed backend architecture using REST for room management and persistent WebSockets for real-time communication  
+
+### SafetyCompanion  
+Next.js, MongoDB, Real-Time APIs, Geolocation API  
+https://github.com/Achan112233/SafetyCompanion  
+- Developed a real-time safety check-in platform with live location sharing and inactivity-based alerts  
+- Implemented backend state management and event-driven updates to synchronize geolocation and session data across clients  
+
+### TaskFlow  
+Flask, SQLAlchemy, Azure AD (OAuth/JWT)  
+https://github.com/Achan112233/Crud-App  
+- Full-stack task management application with OAuth 2.0 authentication and JWT-protected REST APIs  
+- Built relational data models and interactive dashboards supporting secure task CRUD, status tracking, and priority management  
+
+
+---
+
+## Skills
+
 **Languages:** Python, C++, Java, JavaScript, HTML, MIPS Assembly, OCaml  
-**Frameworks:** React, Flask, SQLAlchemy, Node.js, Docker  
-**Tools:** Git, CVAT, JUnit, QT, QML  
-**Concepts:** Algorithms, Distributed Systems, Backend Engineering, Full-Stack Web Development, Software Design  
+**Frameworks & Tools:** React, Flask, SQLAlchemy, Node.js, Docker, Git, JUnit, QT, Jira, Azure, PostgreSQL  
+**Concepts:** Algorithms, REST APIs, Backend Systems, Full-Stack Web Development, Distributed Systems  
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🔧 Concurrent Linux Shell](#) | Multithreaded C shell supporting I/O redirection, pipes, and process management | C, Unix |
-| [🧠 TaskFlow](https://github.com/Achan112233/Crud-App) | Full-stack task board with authentication, REST APIs, and persistent storage | Python, Flask, SQLAlchemy, React |
-| [🗺️ Mapping GUI (Forterra)](#) | Internal tooling to automate pickup command generation for 100+ vehicle routines | Python, Tkinter, MatPlotLib |
-
----
-
-### 🌱 What I’m Learning
-- Distributed Systems & Concurrency  
-- Backend Architecture & API Design  
-- Advanced C and Systems Programming  
-
----
-
-### 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://achandev.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/antchan12/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Achan112233)  
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:anthonycc1122@gmail.com)
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achan112233&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achan112233&layout=compact&theme=tokyonight)
