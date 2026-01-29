@@ -34,9 +34,7 @@ I’m a Software Engineer and Computer Science student passionate about backend 
 
 ### Real-time Study Room  
 Go, REST APIs, WebSockets, TypeScript  
-
 https://github.com/velazjoc/network-chat  
-
 - Building a room-based real-time collaboration app with invite codes, live messaging, and online presence  
 - Designed backend architecture using REST for room management and persistent WebSockets for real-time communication  
 
