@@ -13,15 +13,6 @@ I’m a Software Engineer and Computer Science student passionate about backend 
 
 ---
 
-## Education
-**University of Maryland, College Park**  
-Bachelor of Science in Computer Science — Dec 2026  
-GPA: 3.5  
-
-Relevant Coursework: Advanced Data Structures & Algorithms, Computer Systems, Parallel Computing, Compiler Theory, Data Science, Game Programming
-
----
-
 ## Experience
 
 ### Software Developer Intern — UMD Center for Geospatial Information Science (Sept 2025 – Present)
@@ -42,7 +33,9 @@ Relevant Coursework: Advanced Data Structures & Algorithms, Computer Systems, Pa
 ## Featured Projects
 
 ### Real-time Study Room  
-Go, REST APIs, WebSockets, TypeScript  
+Go, REST APIs, WebSockets, TypeScript
+https://github.com/velazjoc/network-chat
+https://github.com/Achan112233/SafetyCompanion  
 - Building a room-based real-time collaboration app with invite codes, live messaging, and online presence  
 - Designed backend architecture using REST for room management and persistent WebSockets for real-time communication  
 
