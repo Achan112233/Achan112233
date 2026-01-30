@@ -39,10 +39,4 @@ https://github.com/Achan112233/Crud-App
 **Frameworks & Tools:** React, Flask, SQLAlchemy, Node.js, Docker, Git, JUnit, QT, Jira, Azure, PostgreSQL  
 **Concepts:** Algorithms, REST APIs, Backend Systems, Full-Stack Web Development, Distributed Systems  
 
----
-
-## 📊 GitHub Stats
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achan112233&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achan112233&layout=compact&theme=tokyonight)
-
 
