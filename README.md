@@ -16,13 +16,11 @@ I’m a Software Engineer and Computer Science student passionate about backend 
 
 ### Real-time Study Room  
 Go, REST APIs, WebSockets, TypeScript  
-https://github.com/velazjoc/network-chat  
 - Building a room-based real-time collaboration app with invite codes, live messaging, and online presence  
 - Designed backend architecture using REST for room management and persistent WebSockets for real-time communication  
 
 ### SafetyCompanion  
 Next.js, MongoDB, Real-Time APIs, Geolocation API  
-https://github.com/velazjoc/winfo-2026  
 - Developed a real-time safety check-in platform with live location sharing and inactivity-based alerts  
 - Implemented backend state management and event-driven updates to synchronize geolocation and session data across clients  
 
