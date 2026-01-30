@@ -22,7 +22,7 @@ https://github.com/velazjoc/network-chat
 
 ### SafetyCompanion  
 Next.js, MongoDB, Real-Time APIs, Geolocation API  
-https://github.com/Achan112233/SafetyCompanion  
+https://github.com/velazjoc/winfo-2026  
 - Developed a real-time safety check-in platform with live location sharing and inactivity-based alerts  
 - Implemented backend state management and event-driven updates to synchronize geolocation and session data across clients  
 
